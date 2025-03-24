@@ -1,7 +1,16 @@
 {
-    "APPLE TV": {
-        "DAÑO": {
-            "NaN": {
+    "GRUPOS": [
+        "APPLE TV",
+        "APPLE WATCH",
+        "AUDIO",
+        "DESKTOP",
+        "IPHONE",
+        "MACBOOK",
+        "IPAD"
+    ],
+    "DATOS": {
+        "APPLE TV": {
+            "DAÑO": {
                 "APPLE TV": {
                     "AppleCare+ para Apple TV": {
                         "valor": 26042.02,
@@ -9,11 +18,9 @@
                     }
                 }
             }
-        }
-    },
-    "APPLE WATCH": {
-        "DAÑO": {
-            "NaN": {
+        },
+        "APPLE WATCH": {
+            "DAÑO": {
                 "WATCH SE 2da": {
                     "AppleCare+ para Apple Watch SE (2da gen)": {
                         "valor": 43689.08,
@@ -69,11 +76,9 @@
                     }
                 }
             }
-        }
-    },
-    "AUDIO": {
-        "DAÑO": {
-            "NaN": {
+        },
+        "AUDIO": {
+            "DAÑO": {
                 "AIRPODS": {
                     "AppleCare+ para Audifonos - AirPods": {
                         "valor": 26042.0,
@@ -111,11 +116,9 @@
                     }
                 }
             }
-        }
-    },
-    "DESKTOP": {
-        "DAÑO": {
-            "NaN": {
+        },
+        "DESKTOP": {
+            "DAÑO": {
                 "Studio Display": {
                     "AppleCare+ para Apple Studio Display": {
                         "valor": 132764.71,
@@ -140,7 +143,7 @@
                         "sku": "SF8C2ZX/A"
                     }
                 },
-                "MAC MINI ": {
+                "MAC MINI": {
                     "AppleCare+ para Mac mini": {
                         "valor": 88226.89,
                         "sku": "S9703ZX/A"
@@ -195,11 +198,9 @@
                     }
                 }
             }
-        }
-    },
-    "IPHONE": {
-        "ROBO+DAÑO": {
-            "NaN": {
+        },
+        "IPHONE": {
+            "ROBO+DAÑO": {
                 "iPH 11": {
                     "AppleCare+ con Robo y Perdida para iPhone 11": {
                         "valor": 194949.58,
@@ -308,10 +309,8 @@
                         "sku": "SEL02ZX/A"
                     }
                 }
-            }
-        },
-        "DAÑO": {
-            "NaN": {
+            },
+            "DAÑO": {
                 "iPH 13": {
                     "AppleCare+ para iPhone 13": {
                         "valor": 132764.71,
@@ -409,11 +408,9 @@
                     }
                 }
             }
-        }
-    },
-    "MACBOOK": {
-        "DAÑO": {
-            "AIR": {
+        },
+        "MACBOOK": {
+            "DAÑO": {
                 "MacBook Air (M1) 13\"": {
                     "AppleCare+ para 13\" MacBook Air (M1)": {
                         "valor": 159655.46,
@@ -438,6 +435,54 @@
                         "sku": "SNN72ZX/A"
                     }
                 },
+                "MacBook Pro (M1) 13\"": {
+                    "AppleCare+ para 13\" MacBook Pro (M1)": {
+                        "valor": 221840.34,
+                        "sku": "SG2L2ZX/A"
+                    }
+                },
+                "MacBook Pro (M2) 13\"": {
+                    "AppleCare+ para 13\" MacBook Pro (M2)": {
+                        "valor": 221840.34,
+                        "sku": "SG1L2ZX/A"
+                    }
+                },
+                "MacBook Pro (M1) 14\"": {
+                    "AppleCare+ para 14\" MacBook Pro": {
+                        "valor": 248731.09,
+                        "sku": "SJY32ZX/A"
+                    }
+                },
+                "MacBook Pro (M2) 14\"": {
+                    "AppleCare+ para 14\" MacBook Pro (M2)": {
+                        "valor": 248731.09,
+                        "sku": "SJXC2ZX/A"
+                    }
+                },
+                "MacBook Pro (M3) 14\"": {
+                    "AppleCare+ para 14\" MacBook Pro (M3)": {
+                        "valor": 248731.09,
+                        "sku": "SJXD2ZX/A"
+                    }
+                },
+                "MacBook Pro ( (M4 Pro/M4 Max) 14\"": {
+                    "AppleCare+ para 14\" MacBook Pro (M4 Pro/M4 Max)": {
+                        "valor": 248731.09,
+                        "sku": "SG2U2ZX/A"
+                    }
+                },
+                "MacBook Pro (M4) 14\"": {
+                    "AppleCare+ para 14\" MacBook Pro (M4)": {
+                        "valor": 248731.09,
+                        "sku": "S9066ZX/A"
+                    }
+                },
+                "MacBook Pro (M3 Pro/M3 Max) 14\"": {
+                    "AppleCare+ para 14\" MB Pro (M3 Pro/M3 Max)": {
+                        "valor": 248731.09,
+                        "sku": "S9086ZX/A"
+                    }
+                },
                 "MacBook Air (M2) 15\"": {
                     "AppleCare+ para 15\" MacBook Air (M2)": {
                         "valor": 204193.28,
@@ -455,87 +500,35 @@
                         "valor": 204193.28,
                         "sku": "S6446ZX/A"
                     }
-                }
-            },
-            "PRO": {
-                "MacBook Pro (M1) 13\" ": {
-                    "AppleCare+ para 13\" MacBook Pro (M1)": {
-                        "valor": 221840.34,
-                        "sku": "SG2L2ZX/A"
-                    }
                 },
-                "MacBook Pro (M2) 13\" ": {
-                    "AppleCare+ para 13\" MacBook Pro (M2)": {
-                        "valor": 221840.34,
-                        "sku": "SG1L2ZX/A"
-                    }
-                },
-                "MacBook Pro (M1) 14\" ": {
-                    "AppleCare+ para 14\" MacBook Pro": {
-                        "valor": 248731.09,
-                        "sku": "SJY32ZX/A"
-                    }
-                },
-                "MacBook Pro (M2) 14\" ": {
-                    "AppleCare+ para 14\" MacBook Pro (M2)": {
-                        "valor": 248731.09,
-                        "sku": "SJXC2ZX/A"
-                    }
-                },
-                "MacBook Pro (M3) 14\" ": {
-                    "AppleCare+ para 14\" MacBook Pro (M3)": {
-                        "valor": 248731.09,
-                        "sku": "SJXD2ZX/A"
-                    }
-                },
-                "MacBook Pro ( (M4 Pro/M4 Max) 14\" ": {
-                    "AppleCare+ para 14\" MacBook Pro (M4 Pro/M4 Max)": {
-                        "valor": 248731.09,
-                        "sku": "SG2U2ZX/A"
-                    }
-                },
-                "MacBook Pro (M4) 14\" ": {
-                    "AppleCare+ para 14\" MacBook Pro (M4)": {
-                        "valor": 248731.09,
-                        "sku": "S9066ZX/A"
-                    }
-                },
-                "MacBook Pro (M3 Pro/M3 Max) 14\" ": {
-                    "AppleCare+ para 14\" MB Pro (M3 Pro/M3 Max)": {
-                        "valor": 248731.09,
-                        "sku": "S9086ZX/A"
-                    }
-                },
-                "MacBook Pro (M1) 16\" ": {
+                "MacBook Pro (M1) 16\"": {
                     "AppleCare+ para 16\" MacBook Pro (M1)": {
                         "valor": 356294.12,
                         "sku": "S9043ZX/A"
                     }
                 },
-                "MacBook Pro (M2) 16\" ": {
+                "MacBook Pro (M2) 16\"": {
                     "AppleCare+ para 16\" MacBook Pro (M2)": {
                         "valor": 356294.12,
                         "sku": "S9688ZX/A"
                     }
                 },
-                "MacBook Pro (M3) 16\" ": {
+                "MacBook Pro (M3) 16\"": {
                     "AppleCare+ para 16\" MacBook Pro (M3)": {
                         "valor": 356294.12,
                         "sku": "SLA62ZX/A"
                     }
                 },
-                "MacBook Pro  (M4 Pro/M4 Max) 16\" ": {
+                "MacBook Pro  (M4 Pro/M4 Max) 16\"": {
                     "AppleCare+ para 16\" MacBook Pro (M4 Pro/M4 Max)": {
                         "valor": 356294.12,
                         "sku": "SR1A2ZX/A"
                     }
                 }
             }
-        }
-    },
-    "IPAD": {
-        "DAÑO": {
-            "NaN": {
+        },
+        "IPAD": {
+            "DAÑO": {
                 "IPAD (10MA)": {
                     "AppleCare+ para iPad (10ma gen)": {
                         "valor": 61336.13,
