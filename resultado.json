@@ -203,12 +203,6 @@
                         "sku": "SUWE2ZX/A"
                     }
                 },
-                "iPH 13": {
-                    "AppleCare+ con Robo y Perdida para iPhone 13": {
-                        "valor": 194949.58,
-                        "sku": "S9736ZX/A"
-                    }
-                },
                 "iPH 13 mini": {
                     "AppleCare+ con Robo y Perdida para iPhone 13 mini": {
                         "valor": 194949.58,
@@ -303,6 +297,10 @@
                     "AppleCare+ para iPhone 13": {
                         "valor": 132764.71,
                         "sku": "SCMQ2ZX/A"
+                    }
+                    "AppleCare+ con Robo y Perdida para iPhone 13": {
+                        "valor": 194949.58,
+                        "sku": "S9736ZX/A"
                     }
                 },
                 "iPH 13 mini": {
