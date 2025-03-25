@@ -8,19 +8,15 @@
         "MACBOOK",
         "IPAD"
     ],
-    "DATOS": {
         "APPLE TV": {
-            "DAÑO": {
                 "APPLE TV": {
                     "AppleCare+ para Apple TV": {
                         "valor": 26042.02,
                         "sku": "S8407ZX/A"
                     }
                 }
-            }
         },
         "APPLE WATCH": {
-            "DAÑO": {
                 "WATCH SE 2da": {
                     "AppleCare+ para Apple Watch SE (2da gen)": {
                         "valor": 43689.08,
@@ -75,10 +71,8 @@
                         "sku": "SJVX2ZX/A"
                     }
                 }
-            }
         },
         "AUDIO": {
-            "DAÑO": {
                 "AIRPODS": {
                     "AppleCare+ para Audifonos - AirPods": {
                         "valor": 26042.0,
@@ -115,10 +109,8 @@
                         "sku": "SNL02ZX/A"
                     }
                 }
-            }
         },
         "DESKTOP": {
-            "DAÑO": {
                 "Studio Display": {
                     "AppleCare+ para Apple Studio Display": {
                         "valor": 132764.71,
@@ -197,10 +189,8 @@
                         "sku": "S9742ZX/A"
                     }
                 }
-            }
         },
         "IPHONE": {
-            "ROBO+DAÑO": {
                 "iPH 11": {
                     "AppleCare+ con Robo y Perdida para iPhone 11": {
                         "valor": 194949.58,
@@ -308,9 +298,7 @@
                         "valor": 132764.71,
                         "sku": "SEL02ZX/A"
                     }
-                }
             },
-            "DAÑO": {
                 "iPH 13": {
                     "AppleCare+ para iPhone 13": {
                         "valor": 132764.71,
@@ -407,10 +395,8 @@
                         "sku": "SEH92ZX/A"
                     }
                 }
-            }
         },
         "MACBOOK": {
-            "DAÑO": {
                 "MacBook Air (M1) 13\"": {
                     "AppleCare+ para 13\" MacBook Air (M1)": {
                         "valor": 159655.46,
@@ -525,10 +511,8 @@
                         "sku": "SR1A2ZX/A"
                     }
                 }
-            }
         },
         "IPAD": {
-            "DAÑO": {
                 "IPAD (10MA)": {
                     "AppleCare+ para iPad (10ma gen)": {
                         "valor": 61336.13,
@@ -613,7 +597,5 @@
                         "sku": "SM2W2ZX/A"
                     }
                 }
-            }
-        }
     }
 }
