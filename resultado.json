@@ -42,7 +42,7 @@
         },
         "APPLE WATCH": {
             "AppleCare+": {
-                "Apple Watch Series 10": {
+                "Series 10": {
                     "Aluminio": {
                         "AppleCare+ para Apple Watch Series 10 Aluminio": {
                             "valor": "83.990",
@@ -56,7 +56,7 @@
                         }
                     }
                 },
-                "Apple Watch S8": {
+                "Series 8": {
                     "Acero Inoxidable": {
                         "AppleCare+ para Apple Watch Series 8 Acero Inoxidable": {
                             "valor": "83.990",
@@ -70,21 +70,21 @@
                         }
                     }
                 },
-                "Apple Watch S9": {
-                    "Serie 9 ACERO": {
+                "Series 9": {
+                    "Acero": {
                         "AppleCare+ para Apple Watch Series 9 Acero Inoxidable": {
                             "valor": "83.990",
                             "sku": "SG422ZX/A"
                         }
                     },
-                    "Serie 9 ALUMINIO": {
+                    "Aluminio": {
                         "AppleCare+ para Apple Watch Series 9 Aluminio": {
                             "valor": "83.990",
                             "sku": "SG432ZX/A"
                         }
                     }
                 },
-                "Apple Watch Ultra": {
+                "Ultra": {
                     "Ultra 2": {
                         "AppleCare+ para Apple Watch Ultra 2": {
                             "valor": "104.990",
@@ -98,7 +98,7 @@
                         }
                     }
                 },
-                "SE 2 Gen": {
+                "SE 2da Genereción": {
                     "AppleCare+ para Apple Watch SE (2da gen)": {
                         "valor": "51.990",
                         "sku": "S9005ZX/A"
