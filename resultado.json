@@ -1,31 +1,31 @@
 {
     "GRUPOS": [
         {
-            "nombre": "7) APPLE TV",
+            "nombre": "APPLE TV",
             "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218162/AppleTv_AppleCare_epjszx.png"
         },
         {
-            "nombre": "3) APPLE WATCH",
+            "nombre": "APPLE WATCH",
             "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/Watch_AppleCare_pxbbsf.png"
         },
         {
-            "nombre": "6) AUDIO",
+            "nombre": "AUDIO",
             "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/Audio_AppleCare_oagkqo.png"
         },
         {
-            "nombre": "5) DESKTOP",
+            "nombre": "DESKTOP",
             "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/Desktop_AppleCare_ij4seu.png"
         },
         {
-            "nombre": "1) IPHONE",
+            "nombre": "IPHONE",
             "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/iPhone_AppleCare_w2aepl.png"
         },
         {
-            "nombre": "4) MACBOOK",
+            "nombre": "MACBOOK",
             "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/Macbook_AppleCare_lhzh3z.png"
         },
         {
-            "nombre": "2) IPAD",
+            "nombre": "IPAD",
             "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/iPad_AppleCare_nzk6gr.png"
         }
     ],
