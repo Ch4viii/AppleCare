@@ -1,38 +1,38 @@
 {
     "GRUPOS": [
         {
-            "nombre": "APPLE TV",
-            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1745534819/appletv_hlo6vj.png"
+            "nombre": "7) APPLE TV",
+            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218162/AppleTv_AppleCare_epjszx.png"
         },
         {
-            "nombre": "APPLE WATCH",
-            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1745534820/Applewatch_qvtvvf.png"
+            "nombre": "3) APPLE WATCH",
+            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/Watch_AppleCare_pxbbsf.png"
         },
         {
-            "nombre": "AUDIO",
-            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1745534820/homepod_e78pp7.png"
+            "nombre": "6) AUDIO",
+            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/Audio_AppleCare_oagkqo.png"
         },
         {
-            "nombre": "DESKTOP",
-            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1745534821/mac2_s3rphz.png"
+            "nombre": "5) DESKTOP",
+            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/Desktop_AppleCare_ij4seu.png"
         },
         {
-            "nombre": "IPHONE",
-            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1745534820/iPhones_v0j8ov.png"
+            "nombre": "1) IPHONE",
+            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/iPhone_AppleCare_w2aepl.png"
         },
         {
-            "nombre": "MACBOOK",
-            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1745534821/mac2_s3rphz.png"
+            "nombre": "4) MACBOOK",
+            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/Macbook_AppleCare_lhzh3z.png"
         },
         {
-            "nombre": "IPAD",
-            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1745534820/iPAds_wpwsb9.png"
+            "nombre": "2) IPAD",
+            "imagen": "https://res.cloudinary.com/dgi7ls1kr/image/upload/v1746218163/iPad_AppleCare_nzk6gr.png"
         }
     ],
     "DATOS": {
         "APPLE TV": {
             "AppleCare+": {
-                "APPLE TV": {
+                "Apple Tv": {
                     "AppleCare+ para Apple TV": {
                         "valor": "30.990",
                         "sku": "S8407ZX/A"
@@ -42,14 +42,14 @@
         },
         "APPLE WATCH": {
             "AppleCare+": {
-                "Apple Watch S10": {
-                    "WATCH S10 ALUMINIO": {
+                "Apple Watch Series 10": {
+                    "Aluminio": {
                         "AppleCare+ para Apple Watch Series 10 Aluminio": {
                             "valor": "83.990",
                             "sku": "SCJH2ZX/A"
                         }
                     },
-                    "WATCH S10 TITANIO": {
+                    "Titanio": {
                         "AppleCare+ para Apple Watch Series 10 Titanio": {
                             "valor": "83.990",
                             "sku": "SCJD2ZX/A"
@@ -57,13 +57,13 @@
                     }
                 },
                 "Apple Watch S8": {
-                    "WATCH S8 ACERO": {
+                    "Acero Inoxidable": {
                         "AppleCare+ para Apple Watch Series 8 Acero Inoxidable": {
                             "valor": "83.990",
                             "sku": "SG402ZX/A"
                         }
                     },
-                    "WATCH S8 ALUMINIO": {
+                    "Aluminio": {
                         "AppleCare+ para Apple Watch Series 8 Aluminio": {
                             "valor": "83.990",
                             "sku": "SG3X2ZX/A"
@@ -71,13 +71,13 @@
                     }
                 },
                 "Apple Watch S9": {
-                    "WATCH S9 ACERO": {
+                    "Serie 9 ACERO": {
                         "AppleCare+ para Apple Watch Series 9 Acero Inoxidable": {
                             "valor": "83.990",
                             "sku": "SG422ZX/A"
                         }
                     },
-                    "WATCH S9 ALUMINIO": {
+                    "Serie 9 ALUMINIO": {
                         "AppleCare+ para Apple Watch Series 9 Aluminio": {
                             "valor": "83.990",
                             "sku": "SG432ZX/A"
@@ -85,20 +85,20 @@
                     }
                 },
                 "Apple Watch Ultra": {
-                    "WATCH ULTRA 2": {
+                    "Ultra 2": {
                         "AppleCare+ para Apple Watch Ultra 2": {
                             "valor": "104.990",
                             "sku": "SJVK2ZX/A"
                         }
                     },
-                    "WATCH ULTRA": {
+                    "Ultra": {
                         "AppleCare+ para Apple Watch Ultra Titanio": {
                             "valor": "104.990",
                             "sku": "SJVX2ZX/A"
                         }
                     }
                 },
-                "WATCH SE 2da": {
+                "SE 2 Gen": {
                     "AppleCare+ para Apple Watch SE (2da gen)": {
                         "valor": "51.990",
                         "sku": "S9005ZX/A"
@@ -108,37 +108,37 @@
         },
         "AUDIO": {
             "AppleCare+": {
-                "AIRPODS": {
+                "Airpods": {
                     "AppleCare+ para Audifonos - AirPods": {
                         "valor": "30.990",
                         "sku": "SJVY2ZX/A"
                     }
                 },
-                "AIRPODS MAX": {
+                "Airpods Max": {
                     "AppleCare+ para Audifonos - AirPods Max": {
                         "valor": "63.000",
                         "sku": "SJW02ZX/A"
                     }
                 },
-                "AIRPODS PRO": {
+                "Airpods Pro": {
                     "AppleCare+ para Audifonos - AirPods Pro": {
                         "valor": "30.990",
                         "sku": "SNKK2ZX/A"
                     }
                 },
-                "BEATS": {
+                "Beats": {
                     "AppleCare+ para Audifonos - Beats": {
                         "valor": "30.990",
                         "sku": "SNKX2ZX/A"
                     }
                 },
-                "HOME POD": {
+                "HomePod": {
                     "AppleCare+ para HomePod": {
                         "valor": "40.990",
                         "sku": "SNKY2ZX/A"
                     }
                 },
-                "HOME POD MINI": {
+                "HomePod Mini": {
                     "AppleCare+ para HomePod mini": {
                         "valor": "63.000",
                         "sku": "SNL02ZX/A"
@@ -149,19 +149,19 @@
         "DESKTOP": {
             "AppleCare+": {
                 "Mac Mini": {
-                    "MAC MINI": {
+                    "Mac Mini": {
                         "AppleCare+ para Mac mini": {
                             "valor": "104.990",
                             "sku": "S9703ZX/A"
                         }
                     },
-                    "MAC MINI (M2)": {
+                    "Mac Mini (M2)": {
                         "AppleCare+ para Mac mini (M2)": {
                             "valor": "104.990",
                             "sku": "SGQQ2ZX/A"
                         }
                     },
-                    "MAC MINI (M4)": {
+                    "Mac Mini (M4)": {
                         "AppleCare+ para Mac mini (M4)": {
                             "valor": "104.990",
                             "sku": "SR1C2ZX/A"
@@ -175,7 +175,7 @@
                             "sku": "S9718ZX/A"
                         }
                     },
-                    "MAC PRO (M2)": {
+                    "Mac Pro (M2)": {
                         "AppleCare+ para Mac Pro (M2)": {
                             "valor": "529.990",
                             "sku": "SJGQ2ZX/A"
@@ -189,13 +189,13 @@
                             "sku": "SELQ2ZX/A"
                         }
                     },
-                    "MAC STUDIO (M2)": {
+                    "Mac Studio (M2)": {
                         "AppleCare+ para Mac Studio (M2)": {
                             "valor": "178.990",
                             "sku": "SJGC2ZX/A"
                         }
                     },
-                    "MAC STUDIO (M4)": {
+                    "Mac Studio (M4)": {
                         "AppleCare+ para Mac Studio (M4)": {
                             "valor": "178.990",
                             "sku": "STKT2ZX/A"
@@ -208,25 +208,25 @@
                         "sku": "ST4G2ZX/A"
                     }
                 },
-                "IMAC": {
+                "iMac": {
                     "AppleCare+ para iMac": {
                         "valor": "178.990",
                         "sku": "SEHT2ZX/A"
                     }
                 },
-                "IMAC (M3)": {
+                "iMac (M3)": {
                     "AppleCare+ para iMac (M3)": {
                         "valor": "178.990",
                         "sku": "S9788ZX/A"
                     }
                 },
-                "IMAC (M4)": {
+                "iMac (M4)": {
                     "AppleCare+ para iMac (M4)": {
                         "valor": "178.990",
                         "sku": "SF8C2ZX/A"
                     }
                 },
-                "PRO DISPLAY": {
+                "Pro Display": {
                     "AppleCare+ para ProDisplay": {
                         "valor": "529.990",
                         "sku": "S9742ZX/A"
@@ -535,19 +535,19 @@
         "IPAD": {
             "AppleCare+": {
                 "iPad": {
-                    "IPAD (10MA)": {
+                    "iPad (10MA)": {
                         "AppleCare+ para iPad (10ma gen)": {
                             "valor": "72.990",
                             "sku": "SGFC2ZX/A"
                         }
                     },
-                    "IPAD (9NA)": {
+                    "iPad (9NA)": {
                         "AppleCare+ para iPad (9na gen)": {
                             "valor": "72.990",
                             "sku": "SCM32ZX/A"
                         }
                     },
-                    "IPAD (A16)": {
+                    "iPad (A16)": {
                         "AppleCare+ para iPad (A16)": {
                             "valor": "72.990",
                             "sku": "SUYD2ZX/A"
@@ -561,25 +561,25 @@
                             "sku": "SEJD2ZX/A"
                         }
                     },
-                    "IPAD AIR (M2) 11\"": {
+                    "iPad Air (M2) 11\"": {
                         "AppleCare+ para iPad Air 11\" (M2)": {
                             "valor": "30.990",
                             "sku": "SM2V2ZX/A"
                         }
                     },
-                    "IPAD AIR (M3) 11\"": {
+                    "iPad Air  (M3) 11\"": {
                         "AppleCare+ para iPad Air 11\" (M3)": {
                             "valor": "30.990",
                             "sku": "SV072ZX/A"
                         }
                     },
-                    "IPAD AIR (M2) 13\"": {
+                    "iPad Air  (M2) 13\"": {
                         "AppleCare+ para iPad Air 13\" (M2)": {
                             "valor": "114.990",
                             "sku": "SM2A2ZX/A"
                         }
                     },
-                    "IPAD AIR (M3) 13\"": {
+                    "iPad Air  (M3) 13\"": {
                         "AppleCare+ para iPad Air 13\" (M3)": {
                             "valor": "114.990",
                             "sku": "SV172ZX/A"
@@ -593,7 +593,7 @@
                             "sku": "SCLH2ZX/A"
                         }
                     },
-                    "IPAD MINI (A17 PRO)": {
+                    "iPad Mini (A17 PRO)": {
                         "AppleCare+ para iPad mini (A17 Pro)": {
                             "valor": "72.990",
                             "sku": "SNGN2ZX/A"
@@ -601,25 +601,25 @@
                     }
                 },
                 "iPad Pro": {
-                    "IPAD PRO (4TA) 11\"": {
+                    "iPad Pro (4TA) 11\"": {
                         "AppleCare+ para iPad Pro 11\" (4ta gen)": {
                             "valor": "136.990",
                             "sku": "SGG22ZX/A"
                         }
                     },
-                    "IPAD PRO (M4) 11\"": {
+                    "iPad Pro (M4) 11\"": {
                         "AppleCare+ para iPad Pro 11\" (M4)": {
                             "valor": "136.990",
                             "sku": "SM2X2ZX/A"
                         }
                     },
-                    "IPAD PRO (6TA) 12,9\"": {
+                    "iPad Pro (6TA) 12,9\"": {
                         "AppleCare+ para iPad Pro 12.9\" (6ta gen)": {
                             "valor": "169.990",
                             "sku": "SGGY2ZX/A"
                         }
                     },
-                    "IPAD PRO (M4) 13\"": {
+                    "iPad Pro (M4) 13\"": {
                         "AppleCare+ para iPad Pro 13\" (M4)": {
                             "valor": "194.990",
                             "sku": "SM2W2ZX/A"
