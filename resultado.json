@@ -202,34 +202,38 @@
                         }
                     }
                 },
-                "Studio Display": {
-                    "AppleCare+ para Apple Studio Display": {
-                        "valor": "157.990",
-                        "sku": "SEL02ZX/A"
-                    }
-                },
                 "iMac": {
-                    "AppleCare+ para iMac": {
-                        "valor": "178.990",
-                        "sku": "S9688ZX/A"
-                    }
+                    "iMac": {
+                        "AppleCare+ para iMac": {
+                            "valor": "178.990",
+                            "sku": "S9688ZX/A"
+                        }
+                    },
+                    "iMac (M3)": {
+                        "AppleCare+ para iMac (M3)": {
+                            "valor": "178.990",
+                            "sku": "SLA62ZX/A"
+                        }
+                    },
+                    "iMac (M4)": {
+                        "AppleCare+ para iMac (M4)": {
+                            "valor": "178.990",
+                            "sku": "SR1A2ZX/A"
+                        }
+                    }    
                 },
-                "iMac (M3)": {
-                    "AppleCare+ para iMac (M3)": {
-                        "valor": "178.990",
-                        "sku": "SLA62ZX/A"
-                    }
-                },
-                "iMac (M4)": {
-                    "AppleCare+ para iMac (M4)": {
-                        "valor": "178.990",
-                        "sku": "SR1A2ZX/A"
-                    }
-                },
-                "Pro Display": {
-                    "AppleCare+ para ProDisplay": {
-                        "valor": "529.990",
-                        "sku": "S9742ZX/A"
+                "Display": {
+                    "Studio Display": {
+                        "AppleCare+ para Apple Studio Display": {
+                            "valor": "157.990",
+                            "sku": "SEL02ZX/A"
+                        }
+                    },
+                    "Pro Display": {
+                        "AppleCare+ para ProDisplay": {
+                            "valor": "529.990",
+                            "sku": "S9742ZX/A"
+                        }   
                     }
                 }
             }
