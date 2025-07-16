@@ -41,67 +41,69 @@
             }
         },
         "APPLE WATCH": {
-            "AppleCare+": {
-                "Series 10": {
-                    "Aluminio": {
-                        "AppleCare+ para Apple Watch Series 10 Aluminio": {
-                            "valor": "83.990",
-                            "sku": "SNMF2ZX/A"
+                "AppleCare+": {
+                    "Series 10": {
+                        "Aluminio": {
+                            "AppleCare+ para Apple Watch Series 10 Aluminio": {
+                                "valor": "83.990",
+                                "sku": "SNMF2ZX/A"
+                            }
+                        },
+                        "Titanio": {
+                            "AppleCare+ para Apple Watch Series 10 Titanio": {
+                                "valor": "83.990",
+                                "sku": "SNN72ZX/A"
+                            }
                         }
                     },
-                    "Titanio": {
-                        "AppleCare+ para Apple Watch Series 10 Titanio": {
-                            "valor": "83.990",
-                            "sku": "SNN72ZX/A"
-                        }
-                    }
-                },
-                "Series 8": {
-                    "Acero Inoxidable": {
-                        "AppleCare+ para Apple Watch Series 8 Acero Inoxidable": {
-                            "valor": "83.990",
-                            "sku": "SG2L2ZX/A"
-                        }
-                    },
-                    "Aluminio": {
-                        "AppleCare+ para Apple Watch Series 8 Aluminio": {
-                            "valor": "83.990",
-                            "sku": "SG1L2ZX/A"
-                        }
-                    }
-                },
-                "Series 9": {
-                    "Acero": {
-                        "AppleCare+ para Apple Watch Series 9 Acero Inoxidable": {
-                            "valor": "83.990",
-                            "sku": "SJY32ZX/A"
+                    "Series 8": {
+                        "Acero Inoxidable": {
+                            "AppleCare+ para Apple Watch Series 8 Acero Inoxidable": {
+                                "valor": "83.990",
+                                "sku": "SG2L2ZX/A"
+                            }
+                        },
+                        "Aluminio": {
+                            "AppleCare+ para Apple Watch Series 8 Aluminio": {
+                                "valor": "83.990",
+                                "sku": "SG1L2ZX/A"
+                            }
                         }
                     },
-                    "Aluminio": {
-                        "AppleCare+ para Apple Watch Series 9 Aluminio": {
-                            "valor": "83.990",
-                            "sku": "SJXC2ZX/A"
-                        }
-                    }
-                },
-                "Ultra": {
-                    "Ultra 2": {
-                        "AppleCare+ para Apple Watch Ultra 2": {
-                            "valor": "104.990",
-                            "sku": "SJXD2ZX/A"
+                    "Series 9": {
+                        "Acero": {
+                            "AppleCare+ para Apple Watch Series 9 Acero Inoxidable": {
+                                "valor": "83.990",
+                                "sku": "SJY32ZX/A"
+                            }
+                        },
+                        "Aluminio": {
+                            "AppleCare+ para Apple Watch Series 9 Aluminio": {
+                                "valor": "83.990",
+                                "sku": "SJXC2ZX/A"
+                            }
                         }
                     },
                     "Ultra": {
-                        "AppleCare+ para Apple Watch Ultra Titanio": {
-                            "valor": "104.990",
-                            "sku": "SG2U2ZX/A"
+                        "Ultra 2": {
+                            "AppleCare+ para Apple Watch Ultra 2": {
+                                "valor": "104.990",
+                                "sku": "SJXD2ZX/A"
+                            }
+                        },
+                        "Ultra": {
+                            "AppleCare+ para Apple Watch Ultra Titanio": {
+                                "valor": "104.990",
+                                "sku": "SG2U2ZX/A"
+                            }
                         }
-                    }
-                },
-                "SE 2da Generacion": {
-                    "AppleCare+ para Apple Watch SE (2da gen)": {
-                        "valor": "51.990",
-                        "sku": "SG282ZX/A"
+                    },
+                    "SE 2da Generacion": {
+                        "Aluminio":{
+                            "AppleCare+ para Apple Watch SE (2da gen)": {
+                                "valor": "51.990",
+                                "sku": "SG282ZX/A"
+                        }
                     }
                 }
             }
