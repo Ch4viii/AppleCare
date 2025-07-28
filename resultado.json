@@ -151,12 +151,6 @@
         "DESKTOP": {
             "AppleCare+": {
                 "Mac Mini": {
-                    "Mac Mini": {
-                        "AppleCare+ para Mac mini": {
-                            "valor": "104.990",
-                            "sku": "S9703ZX/A"
-                        }
-                    },
                     "Mac Mini (M2)": {
                         "AppleCare+ para Mac mini (M2)": {
                             "valor": "104.990",
@@ -242,18 +236,6 @@
         },
         "IPHONE": {
             "AppleCare+": {
-                "iPhone 11": {
-                    "AppleCare+ con Robo y Perdida para": {
-                        "valor": "231.990",
-                        "sku": "S8407ZX/A"
-                    }
-                },
-                "iPhone 12": {
-                    "AppleCare+ con Robo y Perdida para": {
-                        "valor": "231.990",
-                        "sku": "S9005ZX/A"
-                    }
-                },
                 "iPhone13": {
                     "AppleCare+ con Robo y Perdida para": {
                         "valor": "231.990",
@@ -262,16 +244,6 @@
                     "AppleCare+ para": {
                         "valor": "157.990",
                         "sku": "SCMQ2ZX/A"
-                    }
-                },
-                "iPhone 13 mini": {
-                    "AppleCare+ con Robo y Perdida para": {
-                        "valor": "231.990",
-                        "sku": "SCJD2ZX/A"
-                    },
-                    "AppleCare+ para": {
-                        "valor": "157.990",
-                        "sku": "SCMP2ZX/A"
                     }
                 },
                 "iPhone 14": {
@@ -294,26 +266,6 @@
                         "sku": "SFYT2ZX/A"
                     }
                 },
-                "iPhone 14 Pro": {
-                    "AppleCare+ con Robo y Perdida para": {
-                        "valor": "285.990",
-                        "sku": "SG422ZX/A"
-                    },
-                    "AppleCare+ para": {
-                        "valor": "210.990",
-                        "sku": "SFYV2ZX/A"
-                    }
-                },
-                "iPhone 14 Pro Max": {
-                    "AppleCare+ con Robo y Perdida para": {
-                        "valor": "285.990",
-                        "sku": "SG432ZX/A"
-                    },
-                    "AppleCare+ para": {
-                        "valor": "210.990",
-                        "sku": "SFYW2ZX/A"
-                    }
-                },
                 "iPhone 15": {
                     "AppleCare+ con Robo y Perdida para": {
                         "valor": "231.990",
@@ -332,26 +284,6 @@
                     "AppleCare+ para": {
                         "valor": "189.990",
                         "sku": "SJT42ZX/A"
-                    }
-                },
-                "iPhone 15 Pro": {
-                    "AppleCare+ con Robo y Perdida para": {
-                        "valor": "285.990",
-                        "sku": "SJVY2ZX/A"
-                    },
-                    "AppleCare+ para": {
-                        "valor": "201.990",
-                        "sku": "SJT92ZX/A"
-                    }
-                },
-                "iPhone 15 Pro Max": {
-                    "AppleCare+ con Robo y Perdida para": {
-                        "valor": "285.990",
-                        "sku": "SJW02ZX/A"
-                    },
-                    "AppleCare+ para": {
-                        "valor": "210.990",
-                        "sku": "SJTJ2ZX/A"
                     }
                 },
                 "iPhone 16": {
@@ -403,16 +335,6 @@
                         "valor": "63.000",
                         "sku": "ST3V2ZX/A"
                     }
-                },
-                "iPhone SE (3ra gen)": {
-                    "AppleCare+ con Robo y Perdida para": {
-                        "valor": "157.990",
-                        "sku": "SEHT2ZX/A"
-                    },
-                    "AppleCare+ para": {
-                        "valor": "89.990",
-                        "sku": "SEH92ZX/A"
-                    }
                 }
             }
         },
@@ -443,12 +365,6 @@
                             "sku": "SUWE2ZX/A"
                         }
                     },
-                    "MacBook Pro (M1) 13\"": {
-                        "AppleCare+ para 13\" MacBook Pro (M1)": {
-                            "valor": "262.990",
-                            "sku": "S9736ZX/A"
-                        }
-                    },
                     "MacBook Pro (M2) 13\"": {
                         "AppleCare+ para 13\" MacBook Pro (M2)": {
                             "valor": "263.990",
@@ -475,24 +391,6 @@
                     }
                 },
                 "Macbook Pro": {
-                    "MacBook Pro (M1) 14\"": {
-                        "AppleCare+ para 14\" MacBook Pro": {
-                            "valor": "295.990",
-                            "sku": "SCPG2ZX/A"
-                        }
-                    },
-                    "MacBook Pro (M2) 14\"": {
-                        "AppleCare+ para 14\" MacBook Pro (M2)": {
-                            "valor": "295.990",
-                            "sku": "SGAQ2ZX/A"
-                        }
-                    },
-                    "MacBook Pro (M3) 14\"": {
-                        "AppleCare+ para 14\" MacBook Pro (M3)": {
-                            "valor": "295.990",
-                            "sku": "SL9K2ZX/A"
-                        }
-                    },
                     "MacBook Pro ( (M4 Pro/M4 Max) 14\"": {
                         "AppleCare+ para 14\" MacBook Pro (M4 Pro/M4 Max)": {
                             "valor": "295.990",
@@ -503,30 +401,6 @@
                         "AppleCare+ para 14\" MacBook Pro (M4)": {
                             "valor": "295.990",
                             "sku": "SR172ZX/A"
-                        }
-                    },
-                    "MacBook Pro (M3 Pro/M3 Max) 14\"": {
-                        "AppleCare+ para 14\" MB Pro (M3 Pro/M3 Max)": {
-                            "valor": "295.990",
-                            "sku": "SL9L2ZX/A"
-                        }
-                    },
-                    "MacBook Pro (M1) 16\"": {
-                        "AppleCare+ para 16\" MacBook Pro (M1)": {
-                            "valor": "423.990",
-                            "sku": "SDYP2ZX/A"
-                        }
-                    },
-                    "MacBook Pro (M2) 16\"": {
-                        "AppleCare+ para 16\" MacBook Pro (M2)": {
-                            "valor": "423.990",
-                            "sku": "SGCT2ZX/A"
-                        }
-                    },
-                    "MacBook Pro (M3) 16\"": {
-                        "AppleCare+ para 16\" MacBook Pro (M3)": {
-                            "valor": "423.990",
-                            "sku": "SL9M2ZX/A"
                         }
                     },
                     "MacBook Pro (M4 Pro/M4 Max) 16\"": {
@@ -541,18 +415,6 @@
         "IPAD": {
             "AppleCare+": {
                 "iPad": {
-                    "iPad (10MA)": {
-                        "AppleCare+ para iPad (10ma gen)": {
-                            "valor": "72.990",
-                            "sku": "SGFC2ZX/A"
-                        }
-                    },
-                    "iPad (9NA)": {
-                        "AppleCare+ para iPad (9na gen)": {
-                            "valor": "72.990",
-                            "sku": "SCM32ZX/A"
-                        }
-                    },
                     "iPad (A16)": {
                         "AppleCare+ para iPad (A16)": {
                             "valor": "72.990",
@@ -561,28 +423,10 @@
                     }
                 },
                 "iPad Air": {
-                    "iPad Air (5ta)": {
-                        "AppleCare+ para iPad Air (5ta gen)": {
-                            "valor": "62.990",
-                            "sku": "SEJD2ZX/A"
-                        }
-                    },
-                    "iPad Air (M2) 11\"": {
-                        "AppleCare+ para iPad Air 11\" (M2)": {
-                            "valor": "89.990",
-                            "sku": "SM2V2ZX/A"
-                        }
-                    },
                     "iPad Air (M3) 11\"": {
                         "AppleCare+ para iPad Air 11\" (M3)": {
                             "valor": "89.990",
                             "sku": "SV072ZX/A"
-                        }
-                    },
-                    "iPad Air (M2) 13\"": {
-                        "AppleCare+ para iPad Air 13\" (M2)": {
-                            "valor": "114.990",
-                            "sku": "SM2A2ZX/A"
                         }
                     },
                     "iPad Air (M3) 13\"": {
@@ -593,12 +437,6 @@
                     }
                 },
                 "iPad Mini": {
-                    "IPAD MINI (6TA)": {
-                        "AppleCare+ para iPad mini (6ta gen)": {
-                            "valor": "72.990",
-                            "sku": "SCLH2ZX/A"
-                        }
-                    },
                     "iPad Mini (A17 PRO)": {
                         "AppleCare+ para iPad mini (A17 Pro)": {
                             "valor": "72.990",
@@ -607,22 +445,10 @@
                     }
                 },
                 "iPad Pro": {
-                    "iPad Pro (4TA) 11\"": {
-                        "AppleCare+ para iPad Pro 11\" (4ta gen)": {
-                            "valor": "136.990",
-                            "sku": "SGG22ZX/A"
-                        }
-                    },
                     "iPad Pro (M4) 11\"": {
                         "AppleCare+ para iPad Pro 11\" (M4)": {
                             "valor": "136.990",
                             "sku": "SM2X2ZX/A"
-                        }
-                    },
-                    "iPad Pro (6TA) 12,9\"": {
-                        "AppleCare+ para iPad Pro 12.9\" (6ta gen)": {
-                            "valor": "169.990",
-                            "sku": "SGGY2ZX/A"
                         }
                     },
                     "iPad Pro (M4) 13\"": {
