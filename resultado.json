@@ -56,20 +56,6 @@
                             }
                         }
                     },
-                    "Series 8": {
-                        "Acero Inoxidable": {
-                            "AppleCare+ para Apple Watch Series 8 Acero Inoxidable": {
-                                "valor": "83.990",
-                                "sku": "SG2L2ZX/A"
-                            }
-                        },
-                        "Aluminio": {
-                            "AppleCare+ para Apple Watch Series 8 Aluminio": {
-                                "valor": "83.990",
-                                "sku": "SG1L2ZX/A"
-                            }
-                        }
-                    },
                     "Series 9": {
                         "Acero": {
                             "AppleCare+ para Apple Watch Series 9 Acero Inoxidable": {
@@ -363,12 +349,6 @@
                         "AppleCare+ para 13\" MacBook Air (M4)": {
                             "valor": "210.990",
                             "sku": "SUWE2ZX/A"
-                        }
-                    },
-                    "MacBook Pro (M2) 13\"": {
-                        "AppleCare+ para 13\" MacBook Pro (M2)": {
-                            "valor": "263.990",
-                            "sku": "SF932ZX/A"
                         }
                     },
                     "MacBook Air (M2) 15\"": {
